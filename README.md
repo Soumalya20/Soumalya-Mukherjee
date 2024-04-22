@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Pyhton, Django, Javascript**
 
-- 📫 How to reach me **soumalya58342@gmail.com**
+- 📫 How to reach me **Soumalya58342@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
